@@ -1,0 +1,60 @@
+*{
+       font-family: 'SF Pro Text', sans-serif;
+       /* outline: 2px solid red !important; */
+}
+/* .nv{
+       background-color: black !important;
+} */
+
+.onediv{
+       font-weight:   bolder;
+       background-color: #FBFAFB;
+       position: relative;
+       font-size: larger;
+
+}
+.jj{
+       position: absolute;
+       top: 10px;
+      
+       
+
+       
+}
+
+.mm{
+       margin-top: 100px;
+       margin-bottom: 60px;
+}
+
+.sec{
+       position: absolute;
+       margin-top: 0px;
+       color: white;
+       
+}
+.im p{
+       position: relative;
+       
+       
+}
+
+.sec1{
+       position: absolute;
+       margin-top: -5px;
+  
+       font-size: 20px;
+       
+}
+.sec2{
+       position: absolute;
+       margin-top: 1px;
+       color: white;
+}
+.sec3{
+       position: absolute;
+       margin-top: 10px;
+  
+       font-size: 20px;
+       
+}
